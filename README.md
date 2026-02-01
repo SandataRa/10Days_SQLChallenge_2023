@@ -1,4 +1,4 @@
-# 20 days SQL Challenge 2023  
+# 10 days SQL Challenge 2023  
 
 Hello, I'm back again with another challenge. This time, I have decided to review my SQL skills using the amazing website Interview Query. Focusing mainly on SQL questions from various company's recruitment process, I will post my daily attempts and solutions. Special note, I will also provide databases scripts (not needed if you are using Interview Query) in case you want to practice on your local database with data. I welcome feedbacks so feel free to comment or share your own journey with me. This challenge started in May 2023 and be completed after posting all the 20 days.  
 
