@@ -1,6 +1,6 @@
 # 10 days SQL Challenge 2023  
 
-Hello, I'm back again with another challenge. This time, I have decided to review my SQL skills using the amazing website Interview Query. Focusing mainly on SQL questions from various company's recruitment process, I will post my daily attempts and solutions. Special note, I will also provide databases scripts (not needed if you are using Interview Query) in case you want to practice on your local database with data. I welcome feedbacks so feel free to comment or share your own journey with me. This challenge started in May 2023 and be completed after posting all the 20 days.  
+Hello, I'm back again with another challenge. This time, I have decided to review my SQL skills using the amazing website Interview Query. Focusing mainly on SQL questions from various company's recruitment process, I will post my daily attempts and solutions. Special note, I will also provide databases scripts (not needed if you are using Interview Query) in case you want to practice on your local database with data. I welcome feedbacks so feel free to comment or share your own journey with me. This challenge started in May 2023 and be completed after posting all the 10 days.  
 
 So without futher ado: **Let's SQL!**  
 
@@ -18,3 +18,4 @@ Here is the list of all the questions solved during this challenge from Intervie
 - **DAY 6: Search Ranking by Facebook** 
 - **DAY 7: Cumulative Distribution by Nagarro**
 - **DAY 8: Rolling Bank Transactions by Amazon**  
+- **DAY 9: Employees salaries by Meta**  
